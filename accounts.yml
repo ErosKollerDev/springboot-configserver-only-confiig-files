@@ -1,4 +1,3 @@
-
 build:
   version: 3.0
 
@@ -10,21 +9,3 @@ accounts:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
-
-
-management:
-  endpoint:
-    web:
-      exposure:
-        include:
-          - prometheus
-    health:
-      group:
-        custom:
-          include:
-            - diskSpace
-            - ping
-#  server:
-#    port: 9090
-#management.endpoint.health.group.custom.show-components: always
-#management.endpoint.health.group.custom.show-details: always
