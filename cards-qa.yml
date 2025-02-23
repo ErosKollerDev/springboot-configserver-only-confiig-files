@@ -1,9 +1,8 @@
-
 build:
   version: 2.0
 
 cards:
-  message: "Welcome to Q&A Cards related local APIs "
+  message: "Welcome to Quality Assuran Cards related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
