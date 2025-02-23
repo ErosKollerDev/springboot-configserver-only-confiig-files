@@ -1,12 +1,11 @@
-
 build:
   version: 1.0
 
 accounts:
   message: "Welcome to Production accounts related local APIs "
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "{cipher}f360fc436113c7d41fc5c3ae7118f00e9746c5a06453ed48865ac8dc427617dbcee5080c3e52a22f793239073c84ccc5"
+    email: "{cipher}bccedb2dbfd5f918067db4f6fe2dfbf072e15093414c47dcf1c3b5b8af8eb4fa86ea15d15499ec57c450e514a5526faf"
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+    - "{cipher}1f7dd2a1d263ae7a44cc98574749474489606ae951da9c41c5646c6c7f203fd85e1b7bb35002aa38c4db2880186812e4"
+    - "{cipher}1f7dd2a1d263ae7a44cc98574749474489606ae951da9c41c5646c6c7f203fd85e1b7bb35002aa38c4db2880186812e4"
