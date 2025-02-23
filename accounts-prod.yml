@@ -1,5 +1,5 @@
 build:
-  version: 1.0
+  version: 1.1
 
 accounts:
   message: "{cipher}ab63273b8f8745437a3a7c78e940e01b7f1a8150e4bdd708333ad95c6b95aaf07f1fcc1ab90a5f4446054cb454f21aa25d68c22b9e964a7e4774ccca498027e9fc7d72aa83435d89ce4a764875197bd9"
