@@ -2,7 +2,7 @@ build:
   version: 2.1
 
 accounts:
-  message: "Welcome to Quality Assuran taccounts related local APIs "
+  message: "Welcome to Eros Quality Assuran taccounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
