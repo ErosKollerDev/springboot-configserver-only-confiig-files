@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to Default  eros testing accounts related local APIs "
+  message: "Working just fine dude .... great"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
