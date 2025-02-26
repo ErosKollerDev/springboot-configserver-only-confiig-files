@@ -2,7 +2,7 @@ build:
   version: 1.1
 
 accounts:
-  message: "{cipher}ab63273b8f8745437a3a7c78e940e01b7f1a8150e4bdd708333ad95c6b95aaf07f1fcc1ab90a5f4446054cb454f21aa25d68c22b9e964a7e4774ccca498027e9fc7d72aa83435d89ce4a764875197bd9"
+  message: "In Prod Environment"
   contactDetails:
     name: "{cipher}f360fc436113c7d41fc5c3ae7118f00e9746c5a06453ed48865ac8dc427617dbcee5080c3e52a22f793239073c84ccc5"
     email: "{cipher}644e6ce43733e86e7bf19147bb99a1b872bf68e37240b8a52207c3c48079395b048bdfd0096a93c6f6135efe79bc2203"
