@@ -2,7 +2,7 @@ build:
   version: 2.1
 
 accounts:
-  message: "Welcome Accounts,  Now!!! We are using WebHooks with Hookdeck Quality Assuran taccounts related local APIs "
+  message: "Welcome Accounts, One more test,  Now!!! We are using WebHooks with Hookdeck Quality Assuran taccounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
