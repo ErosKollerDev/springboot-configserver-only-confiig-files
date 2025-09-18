@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Default Profile  Working just fine like a cucumber !!!!"
+  message: "Default Profile, rolling the dices here"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
