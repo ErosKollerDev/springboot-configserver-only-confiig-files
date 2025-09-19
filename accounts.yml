@@ -2,10 +2,10 @@ build:
   version: 3.0
 
 accounts:
-  message: "Default Profile, rolling the dices here"
+  message: "Default Profile for Accounts, rolling the dices here"
   contactDetails:
-    name: "John Doe - Developer"
+    name: "John Doe Smith - Developer"
     email: "john@eazybank.com"
   onCallSupport:
-    - (555) 555-1234
+    - (555) 555-4321
     - (555) 523-1345
